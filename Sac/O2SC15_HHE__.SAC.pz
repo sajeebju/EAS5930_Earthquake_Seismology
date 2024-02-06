@@ -1,0 +1,60 @@
+* CHANNEL(NSCL)O2SC15 HHE
+* NETWORK      O2
+* STATION      SC15 
+* COMPONENT    HHE
+* LOCATION       
+* CREATED      2021/09/13 10:35:26
+* EFFECTIVE    2019-01-31 22:00:00.0
+* ENDDATE      2022-12-31 23:59:59.0
+* PARSE FLAGS 0x0 
+* INPUT UNIT   NM
+* OUTPUT UNIT  COUNT
+* DESCRIPTION  Hammon, Oklahoma, USA
+* RATE (HZ)    100.0
+* OWNER        Oklahoma Consolidated Temporary Seismic Networks ()
+* COORD(NEIC)  O2 SC15:  35.6066  -99.5006  550.0
+* COORD(SEED)  O2 SC15:  35.6066  -99.5006  550.0
+* ORIENTATION  O2 SC15  -- HHE:    90.0   0.0    0.0
+* LAT-SEED     35.606645
+* LONG-SEED    -99.50059
+* ELEV-SEED    550.0
+* DEPTH        0.0
+* DIP          0.0
+* AZIMUTH      90.0
+* INSTRMNTTYPE ===N/A=STS-2, 120 s, 1500 V/m/s, generation 3 electronics
+* INSTRMNTCMNT Hammon, Oklahoma, USA^Oklahoma Consolidated Temporary Seismic Networks ()^^
+* INSTRMNTGAIN 1.5000E03
+* INSTRMNTUNIT V
+* SEISMODEL    
+* SEISSERIAL   
+* DIGIMODEL    
+* DIGISERIAL   N/A
+* SENS-SEED    5.4758E08
+* SENS-CALC    5.5046E08
+* A0-SEED      3.4684E17
+* A0-CALC      3.4684E17
+* SEEDFLAGS    CG
+* ****
+CONSTANT              1.8992E+17
+ZEROS   7
+         0.0000E+00   0.0000E+00
+         0.0000E+00   0.0000E+00
+         0.0000E+00   0.0000E+00
+        -1.5150E+01   0.0000E+00
+        -1.7660E+02   0.0000E+00
+        -4.6310E+02  -4.3050E+02
+        -4.6310E+02   4.3050E+02
+POLES  11
+        -3.7000E-02  -3.7000E-02
+        -3.7000E-02   3.7000E-02
+        -1.5640E+01   0.0000E+00
+        -9.7340E+01  -4.0070E+02
+        -9.7340E+01   4.0070E+02
+        -3.7480E+02   0.0000E+00
+        -5.2030E+02   0.0000E+00
+        -1.0530E+04  -1.0050E+04
+        -1.0530E+04   1.0050E+04
+        -1.3300E+04   0.0000E+00
+        -2.5510E+02   0.0000E+00
+* <EOE>
+* <EOR>

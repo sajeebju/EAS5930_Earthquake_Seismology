@@ -1,0 +1,60 @@
+* CHANNEL(NSCL)YXUNM2 HHN
+* NETWORK      YX
+* STATION      UNM2 
+* COMPONENT    HHN
+* LOCATION       
+* CREATED      2021/09/13 10:35:29
+* EFFECTIVE    2016-07-19 00:00:00.0
+* ENDDATE      2021-12-31 23:59:59.0
+* PARSE FLAGS 0x0 
+* INPUT UNIT   NM
+* OUTPUT UNIT  COUNT
+* DESCRIPTION  SE Corner of NM Stations
+* RATE (HZ)    100.0
+* OWNER        Raton Basin UNM Broadband Network ()
+* COORD(NEIC)  YX UNM2:  36.8021 -104.8636 2166.0
+* COORD(SEED)  YX UNM2:  36.8021 -104.8636 2166.0
+* ORIENTATION  YX UNM2  -- HHN:     0.0   0.0    0.0
+* LAT-SEED     36.802059
+* LONG-SEED    -104.863602
+* ELEV-SEED    2166.0
+* DEPTH        0.0
+* DIP          0.0
+* AZIMUTH      0.0
+* INSTRMNTTYPE ==Centaur=N/A=Meridian Compact, 120 s, 754 V/m/s-Centaur, 40 vpp
+* INSTRMNTCMNT SE Corner of NM Stations^Raton Basin UNM Broadband Network ()^^
+* INSTRMNTGAIN 7.5000E02
+* INSTRMNTUNIT V
+* SEISMODEL    
+* SEISSERIAL   
+* DIGIMODEL    Centaur
+* DIGISERIAL   N/A
+* SENS-SEED    3.0000E08
+* SENS-CALC    3.0000E08
+* A0-SEED      4.3449E17
+* A0-CALC      4.3449E17
+* SEEDFLAGS    CG
+* ****
+CONSTANT              1.3035E+17
+ZEROS   7
+         0.0000E+00   0.0000E+00
+         0.0000E+00   0.0000E+00
+         0.0000E+00   0.0000E+00
+        -3.9200E+02   0.0000E+00
+        -1.9600E+03   0.0000E+00
+        -1.4900E+03   1.7400E+03
+        -1.4900E+03  -1.7400E+03
+POLES  11
+        -3.6910E-02   3.7020E-02
+        -3.6910E-02  -3.7020E-02
+        -3.4300E+02   0.0000E+00
+        -3.7000E+02   4.6700E+02
+        -3.7000E+02  -4.6700E+02
+        -8.3600E+02   1.5220E+03
+        -8.3600E+02  -1.5220E+03
+        -4.9000E+03   4.7000E+03
+        -4.9000E+03  -4.7000E+03
+        -6.9000E+03   0.0000E+00
+        -1.5000E+04   0.0000E+00
+* <EOE>
+* <EOR>

@@ -1,0 +1,60 @@
+* CHANNEL(NSCL)GSKS28 HHZ00
+* NETWORK      GS
+* STATION      KS28 
+* COMPONENT    HHZ
+* LOCATION     00
+* CREATED      2021/09/13 10:35:21
+* EFFECTIVE    2019-08-20 00:00:00.0
+* ENDDATE      2099-12-31 23:59:59.0
+* PARSE FLAGS 0x0 
+* INPUT UNIT   NM
+* OUTPUT UNIT  COUNT
+* DESCRIPTION  W Mills Ave, Hutchinson KS
+* RATE (HZ)    100.0
+* OWNER        US Geological Survey Networks
+* COORD(NEIC)  GS KS28:  37.9936  -97.9928  482.0
+* COORD(SEED)  GS KS28:  37.9936  -97.9928  482.0
+* ORIENTATION  GS KS28  00 HHZ:     0.0 -90.0    0.0
+* LAT-SEED     37.993611
+* LONG-SEED    -97.992777
+* ELEV-SEED    482.0
+* DEPTH        0.0
+* DIP          -90.0
+* AZIMUTH      0.0
+* INSTRMNTTYPE TrilliumCompact=418=130-01=A0B5=Velocity Transducer
+* INSTRMNTCMNT W Mills Ave, Hutchinson KS^US Geological Survey Networks^^
+* INSTRMNTGAIN 7.4500E02
+* INSTRMNTUNIT V
+* SEISMODEL    TrilliumCompact
+* SEISSERIAL   418
+* DIGIMODEL    130-01
+* DIGISERIAL   A0B5
+* SENS-SEED    4.6870E08
+* SENS-CALC    4.6870E08
+* A0-SEED      4.3462E17
+* A0-CALC      4.3462E17
+* SEEDFLAGS    CG
+* ****
+CONSTANT              2.0371E+17
+ZEROS   7
+         0.0000E+00   0.0000E+00
+         0.0000E+00   0.0000E+00
+         0.0000E+00   0.0000E+00
+        -3.9200E+02   0.0000E+00
+        -1.9600E+03   0.0000E+00
+        -1.4900E+03   1.7400E+03
+        -1.4900E+03  -1.7400E+03
+POLES  11
+        -3.6910E-02   3.7020E-02
+        -3.6910E-02  -3.7020E-02
+        -3.4300E+02   0.0000E+00
+        -3.7000E+02   4.6700E+02
+        -3.7000E+02  -4.6700E+02
+        -8.3600E+02   1.5220E+03
+        -8.3600E+02  -1.5220E+03
+        -4.9000E+03   4.7000E+03
+        -4.9000E+03  -4.7000E+03
+        -6.9000E+03   0.0000E+00
+        -1.5000E+04   0.0000E+00
+* <EOE>
+* <EOR>

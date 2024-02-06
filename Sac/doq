@@ -1,0 +1,1 @@
+query -nogaps -t sac -o %N.SAC -sacpz nm -b "2021/09/13-09:26:14" -d 300 -s .......[BH][HN]... -delazc 4.000000:37.427000:-102.931000

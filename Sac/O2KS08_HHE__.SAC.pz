@@ -1,0 +1,51 @@
+* CHANNEL(NSCL)O2KS08 HHE
+* NETWORK      O2
+* STATION      KS08 
+* COMPONENT    HHE
+* LOCATION       
+* CREATED      2021/09/13 10:35:25
+* EFFECTIVE    2019-07-31 21:53:00.0
+* ENDDATE      2022-12-31 23:59:59.0
+* PARSE FLAGS 0x0 
+* INPUT UNIT   NM
+* OUTPUT UNIT  COUNT
+* DESCRIPTION  Anthony NE Station, Kansas
+* RATE (HZ)    100.0
+* OWNER        Oklahoma Consolidated Temporary Seismic Networks ()
+* COORD(NEIC)  O2 KS08:  37.2267  -97.9709  375.0
+* COORD(SEED)  O2 KS08:  37.2267  -97.9709  375.0
+* ORIENTATION  O2 KS08  -- HHE:    90.0   0.0    0.0
+* LAT-SEED     37.22672
+* LONG-SEED    -97.970947
+* ELEV-SEED    375.0
+* DEPTH        0.0
+* DIP          0.0
+* AZIMUTH      90.0
+* INSTRMNTTYPE ==RT130=N/A=CMG-6T, 30s-100Hz, 2400 V/m/s-RT130, gain 1, 100 s
+* INSTRMNTCMNT Anthony NE Station, Kansas^Oklahoma Consolidated Temporary Seismic Networks ()^^
+* INSTRMNTGAIN 2.4000E03
+* INSTRMNTUNIT V
+* SEISMODEL    
+* SEISSERIAL   
+* DIGIMODEL    RT130
+* DIGISERIAL   N/A
+* SENS-SEED    1.3802E09
+* SENS-CALC    1.5099E09
+* A0-SEED      9.0926E11
+* A0-CALC      9.0921E11
+* SEEDFLAGS    CG
+* ****
+CONSTANT              1.2549E+12
+ZEROS   3
+         0.0000E+00   0.0000E+00
+         0.0000E+00   0.0000E+00
+         0.0000E+00   0.0000E+00
+POLES   6
+        -1.4800E-01   1.4800E-01
+        -1.4800E-01  -1.4800E-01
+        -3.9196E+02   8.5069E+02
+        -3.9196E+02  -8.5069E+02
+        -4.7124E+02   0.0000E+00
+        -2.1991E+03   0.0000E+00
+* <EOE>
+* <EOR>

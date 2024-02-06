@@ -1,0 +1,50 @@
+* CHANNEL(NSCL)O2SC16 HHE
+* NETWORK      O2
+* STATION      SC16 
+* COMPONENT    HHE
+* LOCATION       
+* CREATED      2021/09/13 10:35:26
+* EFFECTIVE    2019-01-28 19:48:00.0
+* ENDDATE      2022-12-31 23:59:59.0
+* PARSE FLAGS 0x0 
+* INPUT UNIT   NM
+* OUTPUT UNIT  COUNT
+* DESCRIPTION  Oakwood, Oklahoma, USA
+* RATE (HZ)    100.0
+* OWNER        Oklahoma Consolidated Temporary Seismic Networks ()
+* COORD(NEIC)  O2 SC16:  35.9749  -98.8153  500.0
+* COORD(SEED)  O2 SC16:  35.9749  -98.8153  500.0
+* ORIENTATION  O2 SC16  -- HHE:    90.0   0.0    0.0
+* LAT-SEED     35.974933
+* LONG-SEED    -98.815308
+* ELEV-SEED    500.0
+* DEPTH        0.0
+* DIP          0.0
+* AZIMUTH      90.0
+* INSTRMNTTYPE ==RT130=N/A=CMG-3T, 120s to 50Hz, 1500 V/m/s-RT130, gain 1, 10
+* INSTRMNTCMNT Oakwood, Oklahoma, USA^Oklahoma Consolidated Temporary Seismic Networks ()^^
+* INSTRMNTGAIN 1.5000E03
+* INSTRMNTUNIT V
+* SEISMODEL    
+* SEISSERIAL   
+* DIGIMODEL    RT130
+* DIGISERIAL   N/A
+* SENS-SEED    9.4344E08
+* SENS-CALC    9.4369E08
+* A0-SEED      5.7151E08
+* A0-CALC      5.7140E08
+* SEEDFLAGS    CG
+* ****
+CONSTANT              5.3918E+08
+ZEROS   3
+         0.0000E+00   0.0000E+00
+         0.0000E+00   0.0000E+00
+         0.0000E+00   0.0000E+00
+POLES   5
+        -3.7008E-02   3.7008E-02
+        -3.7008E-02  -3.7008E-02
+        -5.0265E+02   0.0000E+00
+        -1.0050E+03   0.0000E+00
+        -1.1310E+03   0.0000E+00
+* <EOE>
+* <EOR>

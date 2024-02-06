@@ -1,0 +1,9 @@
+* Input ground velocity
+* Output W-A seismogram
+CONSTANT 1.0
+ZEROS 1
+   0.00000000E+00  0.00000000E+00 
+POLES 2
+  -5.49779          5.60886
+  -5.49779         -5.60886
+

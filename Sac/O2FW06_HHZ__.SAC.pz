@@ -1,0 +1,50 @@
+* CHANNEL(NSCL)O2FW06 HHZ
+* NETWORK      O2
+* STATION      FW06 
+* COMPONENT    HHZ
+* LOCATION       
+* CREATED      2021/09/13 10:35:25
+* EFFECTIVE    2019-02-12 18:20:00.0
+* ENDDATE      2022-12-31 23:59:59.0
+* PARSE FLAGS 0x0 
+* INPUT UNIT   NM
+* OUTPUT UNIT  COUNT
+* DESCRIPTION  Aline, Oklahoma, USA
+* RATE (HZ)    100.0
+* OWNER        Oklahoma Consolidated Temporary Seismic Networks ()
+* COORD(NEIC)  O2 FW06:  36.5138  -98.4991  420.0
+* COORD(SEED)  O2 FW06:  36.5138  -98.4991  420.0
+* ORIENTATION  O2 FW06  -- HHZ:     0.0 -90.0    0.0
+* LAT-SEED     36.513783
+* LONG-SEED    -98.499062
+* ELEV-SEED    420.0
+* DEPTH        0.0
+* DIP          -90.0
+* AZIMUTH      0.0
+* INSTRMNTTYPE ==RT130=N/A=CMG-3T, 120s to 50Hz, 1500 V/m/s-RT130, gain 1, 10
+* INSTRMNTCMNT Aline, Oklahoma, USA^Oklahoma Consolidated Temporary Seismic Networks ()^^
+* INSTRMNTGAIN 1.5000E03
+* INSTRMNTUNIT V
+* SEISMODEL    
+* SEISSERIAL   
+* DIGIMODEL    RT130
+* DIGISERIAL   N/A
+* SENS-SEED    9.4344E08
+* SENS-CALC    9.4369E08
+* A0-SEED      5.7151E08
+* A0-CALC      5.7140E08
+* SEEDFLAGS    CG
+* ****
+CONSTANT              5.3918E+08
+ZEROS   3
+         0.0000E+00   0.0000E+00
+         0.0000E+00   0.0000E+00
+         0.0000E+00   0.0000E+00
+POLES   5
+        -3.7008E-02   3.7008E-02
+        -3.7008E-02  -3.7008E-02
+        -5.0265E+02   0.0000E+00
+        -1.0050E+03   0.0000E+00
+        -1.1310E+03   0.0000E+00
+* <EOE>
+* <EOR>

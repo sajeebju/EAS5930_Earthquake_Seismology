@@ -1,1 +1,1 @@
-# EAS5930
+# EAS5930 Earthquake Seismology 

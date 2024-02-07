@@ -3,7 +3,6 @@
 cd GroundVel
 
 for i in ../Sac/*SAC; do
-    # Extract the basename of the file for output naming
     B=$(basename ${i})
     gsac << EOF
     r $i

@@ -1,6 +1,4 @@
 #!/bin/bash
-
-# Navigate to the ML directory
 cd ML
 
 echo "NAME,DEPMAX,DEPMIN,DISTANCE"  > depmin.csv
